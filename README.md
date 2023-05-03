@@ -25,5 +25,5 @@ I'm a Junior Software Engineer living in Spain🇪🇸.
 </div>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josperrod9&show_icons=true&locale=en&layout=compact" alt="josperrod9" height="170"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josperrod9&show_icons=true&locale=en" alt="josperrod9" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josperrod9&show_icons=true&locale=en" alt="josperrod9" width="400"/></p>
 </div>
