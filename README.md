@@ -11,7 +11,7 @@ I'm a Junior Software Engineer living in Spain🇪🇸.
 
 - 📫 How to reach me **josperrod17@gmail.com**
 
-- ⚡️ In my free time, I like doing some exercise or enjoying of a good talk with friends.
+- ⚡️ In my free time, I enjoy exercising or having a good chat with friends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
