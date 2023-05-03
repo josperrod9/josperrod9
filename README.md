@@ -15,7 +15,7 @@ I'm a Junior Software Engineer living in Spain🇪🇸.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/peperez17/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="josperrod9" height="40" width="70" /></a>
+<a href="https://www.linkedin.com/in/peperez17/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="josperrod9" height="40" width="40" /></a>
 <a href="https://medium.com/@pepe17701" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="josperrod9" height="40" width="40" /></a>
 </p>
 
