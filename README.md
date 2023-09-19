@@ -1,5 +1,9 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
-<h1 align="center">Hey there! I'm Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
+
+[![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Pepe+🐉;This+is+my+profile+🚀&font=ubuntu&color=ffffff&center=true)](https://git.io/typing-svg)
+
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josperrod9&label=Profile%20views&color=blueviolet&style=flat" alt="josperrod9" /> </p>
 <h3 align="center">A Software Engineer, Web Developer and Deep Learning enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
@@ -30,6 +34,7 @@
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="java" width="30" height="50"/> </a></p>
 </div>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josperrod9&show_icons=true&locale=en&layout=compact" alt="josperrod9" height="150"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josperrod9&show_icons=true&locale=en" alt="josperrod9" height="150" width="350"/></p>
+<a href="https://git.io/streak-stats"><img alt="Josperrod9's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=josperrod9&theme=dark" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Josperrod9's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=josperrod9&show_icons=true&count_private=true&theme=dark&custom_title=Josperrod's+GitHub+Stats" height="192px"/></a>
+  <br/>
 </div>
