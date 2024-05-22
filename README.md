@@ -1,7 +1,7 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <div align="center">
 
-[![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Pepe+🐉;This+is+my+profile+🚀&font=ubuntu&color=ffffff&center=true)](https://git.io/typing-svg)
+[![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Pepe+🐉;This+is+my+profile+🚀&font=ubuntu&color=603085&center=true)](https://git.io/typing-svg)
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josperrod9&label=Profile%20views&color=blueviolet&style=flat" alt="josperrod9" /> </p>
